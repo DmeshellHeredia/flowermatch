@@ -158,7 +158,7 @@ Base URL: `http://localhost:8080`
 - **Sin roles de usuario** — hay un solo admin en `.env`. El panel cubre JWT y CRUD protegido; agregar roles habría duplicado la complejidad sin añadir nada nuevo al aprendizaje.
 - **Checkout simulado** — solo UI. El modal lo indica antes de confirmar.
 
-## Por qué este stack
+## ¿Por qué este stack?
 
 Elegí PHP puro porque quería escribir SQL a mano y manejar CORS explícitamente, sin delegar eso a un framework. Para una API de este tamaño es suficiente y no tiene magia.
 
@@ -166,14 +166,14 @@ El recomendador en Python fue la parte que más me costó: entender por qué las
 
 Next.js lo elegí para trabajar con App Router: layouts anidados, estados de carga y TypeScript integrado sin configuración adicional. El catálogo termina siendo completamente client-side por el carrito y el fallback local, pero el framework aporta estructura desde el principio.
 
-## Qué aprendí
+## ¿Qué aprendí?
 
 - Sincronizar tres entornos (Python, PHP, JS) leyendo los mismos JSON sin duplicar lógica no es obvio. El script `generar-constantes-ts.js` fue la solución más simple que encontré.
 - El doble-submit cookie para CSRF tiene más matices de los que parece (SameSite, cuándo eximir Bearer, HTTP vs HTTPS).
 - `proc_open` en PHP es incómodo pero funciona. El timeout de 5 s evitó bloqueos reales durante el desarrollo.
 - Implementar JWT desde cero en PHP hace que entiendas muy bien qué valida y qué no.
 
-## Qué haría diferente
+## ¿Qué haría diferente?
 
 - **Python como servicio** — invocar `python recomendador.py` por request funciona pero es lento. Lo habría puesto como Flask desde el principio.
 - **Más tests de integración** — los tests actuales son unitarios. Nunca puse un test que arranque el servidor PHP real y verifique el CORS.
