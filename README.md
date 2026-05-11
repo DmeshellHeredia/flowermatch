@@ -81,7 +81,7 @@ El frontend funciona sin backend (datos estáticos, recomendador local). Para la
 **Requisitos:** Node.js 18+, PHP 8.1+ (`pdo_mysql`), Python 3.10+, MySQL 8.
 
 ```bash
-git clone https://github.com/TU_USUARIO/FlowerMatch.git
+git clone https://github.com/DmeshellHeredia/FlowerMatch.git
 cd FlowerMatch
 
 # Base de datos
