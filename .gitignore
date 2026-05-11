@@ -16,9 +16,6 @@ backend-php/.env
 python-ai/.env
 flowermatch/.env.local
 
-# Claude MCP config (puede contener tokens)
-.mcp.json
-
 # Python
 __pycache__/
 *.py[cod]
@@ -91,18 +88,10 @@ test-results/
 .idea/
 *.code-workspace
 
-# AI assistants (pueden contener contexto sensible)
-.claude/
-.cursor/
-.windsurf/
-.aider*
-.claude-instructions.md
-
 # Documentación interna (checklists, notas de release, guías de QA)
 QA_CHECKLIST.md
 RELEASE_CHECKLIST.md
 docs/
-setup.ps1
 
 # Directorios de runtime
 reports/
