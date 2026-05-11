@@ -1,0 +1,144 @@
+{
+  "frases_prioritarias": {
+    "disculpa": [
+      "pedir perdon", "pidiendo perdon", "pido perdon", "pide perdon",
+      "lo siento mucho", "lo siento", "me disculpo", "quiero disculparme",
+      "perdoname", "disculpame", "pido disculpas", "pide disculpas",
+      "fue mi culpa", "me arrepiento", "arrepentido", "arrepentida",
+      "meter la pata", "no fue mi intencion", "reconciliarme",
+      "reconciliacion", "reconciliar"
+    ],
+    "luto": [
+      "condolencias", "pesame", "en paz descanse", "descanso eterno",
+      "fallecio", "fallecida", "fallecido", "funeral", "velorio",
+      "sepelio", "duelo", "difunto", "difunta", "perder a alguien"
+    ],
+    "salud": [
+      "que te mejores", "pronta recuperacion", "curate pronto",
+      "curate rapido", "visita al hospital", "esta en el hospital",
+      "fue operado", "fue operada", "en recuperacion", "convalecencia",
+      "deseo de salud", "mejorate pronto"
+    ],
+    "agradecimiento": [
+      "muchas gracias", "te lo agradezco", "en agradecimiento",
+      "mi agradecimiento", "gesto de gratitud", "muy agradecido",
+      "muy agradecida", "infinitas gracias", "con gratitud",
+      "quiero agradecer", "para agradecer"
+    ],
+    "nacimiento": [
+      "recien nacido", "recien nacida", "baby shower",
+      "llegada del bebe", "nueva vida", "esperando un bebe",
+      "va a nacer", "acaba de nacer", "nacio el bebe"
+    ],
+    "dia_madres": [
+      "dia de la madre", "dia de las madres",
+      "honrar a mama", "10 de mayo", "regalo para mama",
+      "regalo para mi madre"
+    ],
+    "bienestar": [
+      "momento de calma", "reducir estres", "aliviar ansiedad",
+      "necesito relajarme", "quiero relajarme", "para meditar",
+      "para hacer spa", "autocuidado", "mindfulness"
+    ],
+    "romance": [
+      "san valentin", "dia de los enamorados",
+      "declarar mi amor", "primera cita romantica",
+      "conquistar su corazon", "enamorarla", "enamorarlo"
+    ]
+  },
+  "palabras_clave": {
+    "romance": [
+      "amor", "te quiero", "enamorado", "enamorada", "cita", "novio",
+      "novia", "pareja", "romantico", "romantica", "pasion", "corazon",
+      "beso", "abrazo", "enamorar", "galanteo", "san valentin",
+      "declarar", "seducir", "conquistar", "mi amor", "te amo"
+    ],
+    "amistad": [
+      "amigo", "amiga", "amistad", "companero", "companera",
+      "mejor amigo", "mejor amiga", "colega", "carino", "apoyo",
+      "compadre", "cuate", "amistoso", "fraternidad"
+    ],
+    "disculpa": [
+      "perdon", "lo siento", "disculpa", "error", "arrepiento", "arrepentido",
+      "arrepentida", "equivoque", "falle", "reconciliar", "perdoname",
+      "disculpame", "culpa", "meter la pata", "pido disculpas", "fue mi culpa",
+      "no fue mi intencion", "me disculpo", "quiero disculparme",
+      "reconciliacion", "reconciliarme"
+    ],
+    "cumpleanos": [
+      "cumpleanos", "cumple", "celebracion", "anos", "fiesta", "felicidades",
+      "natalicio", "festejo", "feliz cumpleanos", "cumpleanero", "cumpleanera",
+      "anos de vida"
+    ],
+    "aniversario": [
+      "aniversario", "anos juntos", "matrimonio", "boda", "casados",
+      "union", "compromiso", "prometido", "prometida", "vida juntos",
+      "luna de miel", "anos de casados", "feliz aniversario"
+    ],
+    "agradecimiento": [
+      "gracias", "agradecido", "agradecida", "agradezco", "gratitud",
+      "reconocimiento", "aprecio", "muchas gracias", "muy agradecido",
+      "te lo agradezco", "en agradecimiento", "gesto de gratitud",
+      "con gratitud", "mi agradecimiento", "infinitas gracias",
+      "agradecimiento sincero", "reconocer el esfuerzo",
+      "agradecer", "agradecerte", "agradecerle"
+    ],
+    "luto": [
+      "luto", "condolencias", "pesame", "fallecio", "muerto", "muerte",
+      "funeral", "difunto", "duelo", "velorio", "sepelio", "ausencia",
+      "fallecida", "fallecido", "en paz descanse", "descanso eterno",
+      "partida", "perder a alguien", "funeral flores", "tristeza profunda",
+      "memoria", "recordar", "eterno descanso", "homenaje postumo"
+    ],
+    "graduacion": [
+      "graduacion", "graduado", "graduada", "titulo", "diploma", "logro",
+      "egresado", "egresada", "universitario", "licenciatura", "maestria",
+      "doctorado", "terminar carrera", "examen", "tesis",
+      "felicidades graduado", "te graduaste", "termino la carrera",
+      "culminar estudios", "obtener titulo", "recibirse"
+    ],
+    "salud": [
+      "enfermo", "enferma", "hospital", "recuperacion", "mejoria",
+      "clinica", "operacion", "cirugia", "internado", "internada",
+      "que te mejores", "pronta recuperacion", "herido", "herida",
+      "convalecencia", "visita al hospital", "curate pronto",
+      "deseo de salud", "mejorate", "accidente", "lesion", "fractura",
+      "diagnostico", "tratamiento", "terapia", "rehabilitacion"
+    ],
+    "nacimiento": [
+      "bebe", "nacimiento", "recien nacido", "recien nacida", "embarazo",
+      "parto", "bautizo", "llegada del bebe", "nuevo miembro",
+      "bebita", "bebito", "nacio", "baby shower", "esperando bebe",
+      "nueva vida", "recibir bebe", "embarazada", "gestacion",
+      "maternidad", "paternidad", "primer hijo", "primera hija"
+    ],
+    "dia_madres": [
+      "mama", "madre", "dia de la madre", "dia de las madres", "mami",
+      "abuela", "abuelita", "materna", "materno", "honrar a mama",
+      "regalo para mama", "regalo para madre", "10 de mayo",
+      "dia especial mama", "gracias mama", "te quiero mama"
+    ],
+    "decoracion": [
+      "decorar", "decoracion", "evento", "salon", "arreglo floral",
+      "centro de mesa", "ambiente", "boda decoracion", "fiesta decoracion",
+      "adorno", "ornamento", "arreglo de flores", "ambientar",
+      "decorar salon", "floral", "instalacion floral", "mesa de flores",
+      "ambiente romantico", "decoracion evento", "centros florales"
+    ],
+    "lujo": [
+      "lujo", "exclusivo", "exclusiva", "elegante", "sofisticado",
+      "sofisticada", "premium", "lujoso", "lujosa", "exotico", "exotica",
+      "regalo especial", "regalo exclusivo", "regalo de lujo", "distincion",
+      "clase alta", "fino", "fina", "selecto", "alta gama", "distinguido",
+      "distinguida", "opulento", "opulenta", "de primera clase",
+      "regalo memorable", "impresionar"
+    ],
+    "bienestar": [
+      "relajar", "relajacion", "tranquilidad", "paz", "meditacion",
+      "bienestar", "calma", "stress", "estres", "ansiedad", "serenidad",
+      "zen", "descanso", "alivio", "armonia", "equilibrio", "mindfulness",
+      "spa", "autocuidado", "respirar", "desconectar", "retiro",
+      "momento para mi", "cuidarme", "yoga", "naturaleza", "paz interior"
+    ]
+  }
+}

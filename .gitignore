@@ -1,7 +1,117 @@
 node_modules/
 .next/
+dist/
+out/
+
+# Env — nunca commitear credenciales reales
 .env
 .env.local
 .env*.local
-dist/
-out/
+.env.*
+*.env
+.env.production
+.env.staging
+!.env.example
+backend-php/.env
+python-ai/.env
+flowermatch/.env.local
+
+# Claude MCP config (puede contener tokens)
+.mcp.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+htmlcov/
+coverage-final.json
+pip-wheel-metadata/
+
+# PHP
+vendor/
+composer.phar
+
+# Logs
+*.log
+logs/
+backend-php/logs/
+
+# Database dumps/backups
+*.sql.gz
+*.dump
+*.backup.sql
+*.backup
+*.bak
+database/backups/
+database/dumps/
+
+# Backups de .env (variantes comunes de editores y herramientas)
+.env.backup
+.env.*.backup
+.env.bak
+
+# Local DB files
+*.sqlite
+*.sqlite3
+*.db
+
+# Certificados / claves
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.jks
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/build
+*.tsbuildinfo
+
+# Test/build artifacts
+coverage/
+.nyc_output/
+.vitest/
+playwright-report/
+test-results/
+
+# Deploy/local platform
+.vercel/
+.netlify/
+.turbo/
+
+# IDE local
+.vscode/
+.idea/
+*.code-workspace
+
+# AI assistants (pueden contener contexto sensible)
+.claude/
+.cursor/
+.windsurf/
+.aider*
+.claude-instructions.md
+
+# Documentación interna (checklists, notas de release, guías de QA)
+QA_CHECKLIST.md
+RELEASE_CHECKLIST.md
+docs/
+setup.ps1
+
+# Directorios de runtime
+reports/
+tmp/
+uploads/
+backend-php/tmp/
+backend-php/sessions/
+
+# Secretos y credenciales de servicios externos
+secrets/
+private/
+auth.json

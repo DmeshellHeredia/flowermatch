@@ -1,0 +1,60 @@
+{
+  "genericos": {
+    "romance":        "Para expresar amor romántico, te recomendamos:",
+    "amistad":        "Para celebrar la amistad, estas flores son perfectas:",
+    "disculpa":       "Para pedir perdón con sinceridad, te recomendamos:",
+    "cumpleanos":     "Para celebrar un cumpleaños con alegría:",
+    "aniversario":    "Para conmemorar un aniversario especial:",
+    "agradecimiento": "Para expresar gratitud de corazón:",
+    "luto":           "Para acompañar en un momento de duelo:",
+    "graduacion":     "Para celebrar un gran logro académico:",
+    "salud":          "Para desear una pronta recuperación:",
+    "nacimiento":     "Para celebrar la llegada de una nueva vida:",
+    "dia_madres":     "Para honrar a mamá en su día especial:",
+    "decoracion":     "Para crear un arreglo floral elegante:",
+    "lujo":           "Para un regalo verdaderamente exclusivo:",
+    "bienestar":      "Para transmitir calma y serenidad:",
+    "general":        "Te recomendamos estas flores populares:"
+  },
+  "contextuales": {
+    "disculpa": {
+      "amistad": "Para pedir perdón a un amigo, te recomendamos:",
+      "pareja":  "Para pedir perdón a tu pareja con sinceridad, te recomendamos:",
+      "familia": "Para reconciliarte con un familiar, te recomendamos:",
+      "trabajo": "Para disculparte en un contexto profesional, te recomendamos:"
+    },
+    "luto": {
+      "amistad": "Para acompañar a un amigo en un momento difícil, te recomendamos:",
+      "familia": "Para acompañar a tu familia en el duelo, te recomendamos:",
+      "pareja":  "Para acompañar a tu pareja en el duelo, te recomendamos:",
+      "trabajo": "Para expresar condolencias en el ámbito laboral, te recomendamos:"
+    },
+    "agradecimiento": {
+      "trabajo": "Para agradecer en un contexto profesional, te recomendamos:",
+      "amistad": "Para agradecer a un amigo de corazón, te recomendamos:",
+      "familia": "Para agradecer a un familiar con cariño, te recomendamos:",
+      "pareja":  "Para agradecer a tu pareja, te recomendamos:"
+    },
+    "romance": {
+      "pareja":  "Para expresar amor a tu pareja, te recomendamos:",
+      "amistad": "Para expresar tus sentimientos, te recomendamos:"
+    },
+    "salud": {
+      "amistad": "Para desear pronta recuperación a un amigo, te recomendamos:",
+      "familia": "Para desear pronta recuperación a un familiar, te recomendamos:",
+      "pareja":  "Para desear pronta recuperación a tu pareja, te recomendamos:"
+    },
+    "cumpleanos": {
+      "amistad": "Para celebrar el cumpleaños de un amigo, te recomendamos:",
+      "familia": "Para celebrar el cumpleaños de un familiar, te recomendamos:",
+      "pareja":  "Para celebrar el cumpleaños de tu pareja, te recomendamos:"
+    },
+    "nacimiento": {
+      "familia": "Para celebrar la llegada del nuevo bebé en familia:",
+      "amistad": "Para celebrar el nacimiento del bebé de un amigo:"
+    },
+    "aniversario": {
+      "pareja": "Para conmemorar un aniversario con tu pareja, te recomendamos:"
+    }
+  }
+}

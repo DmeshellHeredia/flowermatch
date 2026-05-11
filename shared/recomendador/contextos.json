@@ -1,0 +1,53 @@
+{
+  "amistad": [
+    "mejor amigo",
+    "mejor amiga",
+    "amigo de toda la vida",
+    "amiga de toda la vida",
+    "amigo",
+    "amiga",
+    "companero",
+    "companera",
+    "colega",
+    "cuate",
+    "compadre"
+  ],
+  "pareja": [
+    "novio",
+    "novia",
+    "pareja",
+    "esposo",
+    "esposa",
+    "prometido",
+    "prometida",
+    "marido"
+  ],
+  "familia": [
+    "abuela",
+    "abuelo",
+    "mama",
+    "madre",
+    "papa",
+    "padre",
+    "hijo",
+    "hija",
+    "hermano",
+    "hermana",
+    "tio",
+    "tia",
+    "familiar",
+    "familia"
+  ],
+  "trabajo": [
+    "companero de trabajo",
+    "companera de trabajo",
+    "jefe",
+    "jefa",
+    "cliente",
+    "empleado",
+    "empleada",
+    "colega de trabajo",
+    "socio",
+    "socia"
+  ]
+}

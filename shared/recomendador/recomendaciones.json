@@ -1,0 +1,17 @@
+{
+  "romance":        ["Rosa Roja",       "Amapola Roja",     "Peonía Rosa"],
+  "amistad":        ["Girasol",         "Margarita",        "Gerbera Naranja"],
+  "disculpa":       ["Clavel Rosado",   "Tulipán Morado",   "Lirio Blanco"],
+  "cumpleanos":     ["Girasol",         "Gerbera Naranja",  "Rosa Roja"],
+  "aniversario":    ["Lirio Blanco",    "Orquídea Púrpura", "Hortensia Azul"],
+  "agradecimiento": ["Clavel Rosado",   "Hortensia Azul",   "Girasol"],
+  "luto":           ["Lirio Blanco",    "Lavanda",          "Hortensia Azul"],
+  "graduacion":     ["Girasol",         "Gerbera Naranja",  "Peonía Rosa"],
+  "salud":          ["Lavanda",         "Margarita",        "Girasol"],
+  "nacimiento":     ["Margarita",       "Gerbera Naranja",  "Clavel Rosado"],
+  "dia_madres":     ["Peonía Rosa",     "Rosa Roja",        "Lirio Blanco"],
+  "decoracion":     ["Hortensia Azul",  "Lavanda",          "Orquídea Púrpura"],
+  "lujo":           ["Orquídea Púrpura","Peonía Rosa",      "Rosa Roja"],
+  "bienestar":      ["Lavanda",         "Margarita",        "Girasol"],
+  "general":        ["Rosa Roja",       "Girasol",          "Orquídea Púrpura"]
+}
